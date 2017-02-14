@@ -1,11 +1,11 @@
 # ACA Wall of quotes ACA 2017 - Q1
 
-This is a project to test collaborative working in a git repository. 
+This is a project to test collaborative working in a git repository.
 
 ## Rules
 
-Add your name to the README.md (in alphabetical order of the last name) as a h3 `### Your name`. Underneath the name you add one quote that you like each time before class. 
-So your section should look something like this: 
+Add your name to the README.md (in alphabetical order of the last name) as a h3 `### Your name`. Underneath the name you add one quote that you like each time before class.
+So your section should look something like this:
 
 ```
 ### Firstname Lastname
@@ -14,3 +14,7 @@ So your section should look something like this:
 ```
 
 # Wall of Quotes:
+
+### Alex Gaw
+
+- "Go to town there" (Ivo Meißner) Added 02/13/2017
