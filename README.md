@@ -1,11 +1,11 @@
 # ACA Wall of quotes ACA 2017 - Q1
 
-This is a project to test collaborative working in a git repository. 
+This is a project to test collaborative working in a git repository.
 
 ## Rules
 
-Add your name to the README.md (in alphabetical order of the last name) as a h3 `### Your name`. Underneath the name you add one quote that you like each time before class. 
-So your section should look something like this: 
+Add your name to the README.md (in alphabetical order of the last name) as a h3 `### Your name`. Underneath the name you add one quote that you like each time before class.
+So your section should look something like this:
 
 ```
 ### Firstname Lastname
@@ -17,3 +17,7 @@ So your section should look something like this:
 ### Will Smith
 
 -"I find your lack of faith disturbing" (Darth Vader) Added 2/14/2017
+
+### Chris Perkins
+
+- "Meeseeks don't usually have to exist for this long. It's getting weird!" (Mr. Meeseeks) Add 2/14/2017
