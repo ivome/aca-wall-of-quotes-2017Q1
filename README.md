@@ -14,3 +14,6 @@ So your section should look something like this:
 ```
 
 # Wall of Quotes:
+### Will Smith
+
+-"I find your lack of faith disturbing" (Darth Vader) Added 2/14/2017
