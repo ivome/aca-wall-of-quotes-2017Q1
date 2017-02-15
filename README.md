@@ -20,4 +20,4 @@ So your section should look something like this:
 
 ### Chris Perkins
 
-- "Meeseeks don't usually have to exist for this long. It's getting weird!" (Mr. Meeseeks) Add 2/14/2017
+- "Meeseeks don't usually have to exist for this long. It's getting weird!" (Mr. Meeseeks) Added 2/14/2017
