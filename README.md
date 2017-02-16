@@ -25,3 +25,5 @@ So your section should look something like this:
 
 - "Meeseeks don't usually have to exist for this long. It's getting weird!" (Mr. Meeseeks) Added 2/14/2017
 >>>>>>> e1fc806e7499bff11c667ec69f857a25dab5b1c0
+### Matthew Howard
+- "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. Thomas Jefferson"
