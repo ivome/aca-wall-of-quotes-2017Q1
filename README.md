@@ -15,6 +15,9 @@ So your section should look something like this:
 
 # Wall of Quotes:
 
+### Matthew Howard
+- "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. Thomas Jefferson"
+
 ### Kayne Khoury
 
 - "If it's worth remembering, it's worth writing down" (My grandpa) Added 02/15/2017
@@ -23,25 +26,18 @@ So your section should look something like this:
 
 - "Love isn't hard when you're not dicks to eachother" (Shakespeare and James Kuhr) Added 02/15/2017
 
-### Will Smith
+### Trevor Lujan
 
-<<<<<<< HEAD
-- "I find your lack of faith disturbing" (Darth Vader) Added 2/14/2017
-=======
--"I find your lack of faith disturbing" (Darth Vader) Added 2/14/2017
+- "Iconic! Honestly, truly" (Joanne the Scammer) Added 02/16/2017
+
+### Jordan Mitchell
+
+- "WUBBA LUBBA DUB DUBS!!!"" (Rick) Added 2/15/2017
 
 ### Chris Perkins
 
 - "Meeseeks don't usually have to exist for this long. It's getting weird!" (Mr. Meeseeks) Added 2/14/2017
->>>>>>> e1fc806e7499bff11c667ec69f857a25dab5b1c0
-<<<<<<< HEAD
-### Matthew Howard
-- "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. Thomas Jefferson"
-=======
 
-### Jordan Mitchell 
+### Will Smith
 
-WUBBA LUBBA DUB DUBS!!!
-
-(Rick) Added 2/15/2017
->>>>>>> 9781daa991fb679c4b8ef80778777421fab040b0
+- "I find your lack of faith disturbing" (Darth Vader) Added 2/14/2017
