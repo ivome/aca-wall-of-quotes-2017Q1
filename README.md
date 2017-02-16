@@ -14,6 +14,11 @@ So your section should look something like this:
 ```
 
 # Wall of Quotes:
+
+### Kayne Khoury
+
+- "If it's worth remembering, it's worth writing down" (My grandpa) Added 02/15/2017
+
 ### James Kuhr
 
 - "Love isn't hard when you're not dicks to eachother" (Shakespeare and James Kuhr) Added 02/15/2017
