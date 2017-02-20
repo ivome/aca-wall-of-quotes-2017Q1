@@ -45,5 +45,4 @@ So your section should look something like this:
 
 ### Alex Gaw
 
-- "Go to town there" (Ivo Meißner) Added 02/13/2017
->>>>>>> 8e6ea19a97634296ee3315e0fbf4a3431200b84b
+- "Go to town there" (Ivo Meißner) Added 02/20/2017
