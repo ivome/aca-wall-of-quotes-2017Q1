@@ -46,3 +46,6 @@ So your section should look something like this:
 ### Alex Gaw
 
 - "Go to town there" (Ivo Meißner) Added 02/20/2017
+
+###Jordan Mitchell
+    "Im downloading some n3p music" - (Michael Scott) 02/20/17
