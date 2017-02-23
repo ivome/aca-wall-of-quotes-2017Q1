@@ -57,3 +57,7 @@ So your section should look something like this:
 
 - "Make way for the homo superior" (David Bowie) Added 02/22/2017
 >>>>>>> e1a906f8a4653db72813caeb2144392615eb8420
+
+### Jordan Mitchell
+
+    “Before I do anything I ask myself, ‘Would an idiot do that?’ and if the answer is yes, I do not do that thing.”- (Dwight Schrute) added 2/23/2017
