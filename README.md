@@ -47,6 +47,9 @@ So your section should look something like this:
 
 - "Go to town there" (Ivo Meißner) Added 02/20/2017
 
+###Jordan Mitchell
+    "Im downloading some n3p music" - (Michael Scott) 02/20/17
+
 ### Alex Gaw
 
 - "Make way for the homo superior" (David Bowie) Added 02/22/2017
