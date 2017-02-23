@@ -50,3 +50,10 @@ So your section should look something like this:
 
 ###Jordan Mitchell
     "Im downloading some n3p music" - (Michael Scott) 02/20/17
+<<<<<<< HEAD
+=======
+
+### Alex Gaw
+
+- "Make way for the homo superior" (David Bowie) Added 02/22/2017
+>>>>>>> e1a906f8a4653db72813caeb2144392615eb8420
