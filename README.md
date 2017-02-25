@@ -29,6 +29,7 @@ So your section should look something like this:
 ### Trevor Lujan
 
 - "Iconic! Honestly, truly" (Joanne the Scammer) Added 02/16/2017
+- "Always borrow money from a pessimist. He won't expect it back" (Oscar Wilde) Added 02/15/2017
 
 ### Jordan Mitchell
 
