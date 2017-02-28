@@ -37,9 +37,10 @@ So your section should look something like this:
 
 ### Chris Perkins
 
+- "Sometimes that light at the end of the tunnel is a train." (Charles Barkley) Added 2/27/2017
+- "GOD DAMMIT!!" (Vince McMahon) Added 2/22/2017
 - "And what I wonder is, whether maybe pro wrestling is one of the most real things we have in our society and what’s really disturbing is that the other stuff is much more fake." (Peter Thiel) Added 2/18/2017
 - "Meeseeks don't usually have to exist for this long. It's getting weird!" (Mr. Meeseeks) Added 2/14/2017
-- "GOD DAMMIT!!" (Vince McMahon) Added 2/22/2017
 
 ### Will Smith
 
