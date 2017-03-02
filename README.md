@@ -30,6 +30,7 @@ So your section should look something like this:
 
 - "Iconic! Honestly, truly" (Joanne the Scammer) Added 02/16/2017
 - "Always borrow money from a pessimist. He won't expect it back" (Oscar Wilde) Added 02/15/2017
+- "Life is a cruel, horrible joke and I'm the punch line." (Carrie Fisher) Added 03/01/2017
 
 ### Jordan Mitchell
 
@@ -63,5 +64,3 @@ So your section should look something like this:
 ### Jordan Mitchell
 
     “Before I do anything I ask myself, ‘Would an idiot do that?’ and if the answer is yes, I do not do that thing.”- (Dwight Schrute) added 2/23/2017
-
-
